@@ -108,7 +108,7 @@ BOOL APIENTRY DllMain(HMODULE module, DWORD callReason, LPVOID lpReserved) {
         logger.Info ("| Loader |                                   |");
         logger.Info ("|--------+                                   |");
         logger.Info ("|                                            |");
-        logger.Info ("| 0x000cb - Project creator & reverse staff. |");
+        logger.Info ("| micha - Project creator & reverse staff. |");
         logger.Info ("| HoShiMin - Legacy & Native help.           |");
         logger.Info ("| playday3008 - Help with github stuff.      |");
         logger.Info ("|--------------------------------------------|");
